@@ -83,7 +83,7 @@ const jokes = [
 
   `Two peanuts were walking down the street. One was a-salted.`,
 
-  `How can you tell it’s a dogwood tree? By the bark.`,
+  `How can you tell it's a dogwood tree? By the bark.`,
 
   `What did the buffalo say when his kid went to college? Bison.`,
 
@@ -115,15 +115,15 @@ const jokes = [
 
   `I couldn't figure out why the baseball kept getting larger. Then it hit me.`,
 
-  `What do you call a boomerang that won’t come back? A stick.`,
+  `What do you call a boomerang that won't come back? A stick.`,
 
   `What did the full glass say to the empty glass? You look drunk.`,
 
   `How do you stop a bull from charging? Cancel its credit card.`,
 
-  `Why don’t we see elephants hiding in trees? Because they’re really good at it.`,
+  `Why don't we see elephants hiding in trees? Because they're really good at it.`,
 
-  `What’s the difference between a hippo and a zippo? One’s pretty heavy and the other’s a little lighter.`,
+  `What's the difference between a hippo and a zippo? One's pretty heavy and the other's a little lighter.`,
 
   `Did you hear the one about the roof? Never mind, it's over your head.`,
 
